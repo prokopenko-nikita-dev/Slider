@@ -1,4 +1,4 @@
-# Проект ["Slider"](https://prokopenko-nikita-dev.github.io/Weather-App/)
+# Проект ["Slider"](https://prokopenko-nikita-dev.github.io/Slider/)
 
 <div id="badges" align="left>
 
